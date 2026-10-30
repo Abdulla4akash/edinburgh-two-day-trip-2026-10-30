@@ -8,6 +8,8 @@ Keep the accommodation address and host check-in instructions separately; they a
 
 This is a walking-focused first visit: castle and Old Town today; Dean Village, Stockbridge and the museum tomorrow. Allow roughly **8–11km walking each day**, depending on detours and transport. Distances, walking times and spending allowances below are planning estimates. Use a bus or taxi to shorten the longer transfers.
 
+This is **Codex's recommended itinerary**, updated after comparing [Claude's alternative](CLAUDE-PLAN.md). Read the [comparison and tradeoffs](COMPARISON.md). For a hiking-focused Saturday, use the Arthur's Seat alternative below.
+
 ## Friday 30 October
 
 | Time | Plan | Practical details |
@@ -52,6 +54,21 @@ This is a walking-focused first visit: castle and Old Town today; Dean Village, 
 | 6:30–7:10pm | Gentle final walk towards Waverley | Use the Royal Mile and Cockburn Street for a final look at the Old Town. Keep this flexible if it is raining. |
 | 7:10–7:30pm | Enter Waverley and find the platform | Buy water/snacks, use the toilets, check the departure board and allow for queues. |
 | Around 8:00pm | **Departure** | Your exact booked departure overrides this approximate time. |
+
+## Saturday alternative for Arthur's Seat and Holyrood
+
+Claude's strongest addition is a morning on Arthur's Seat followed by Holyrood. Choose this **instead of Dean Village, Stockbridge and Circus Lane** if a hill walk is a priority. Keep the afternoon museum and the 7:30pm Waverley target.
+
+| Time | Alternative morning |
+| --- | --- |
+| 8:00–8:45am | Breakfast near the Airbnb and checkout arrangements. |
+| 8:45–9:30am | Walk or take a taxi to a suitable open Holyrood Park entrance; use the current park map to choose your route. |
+| 9:30am–12:00pm | Arthur's Seat ascent, views and descent, allowing about 2–2.5 hours for the full walk. This is a planning allowance, dependent on route, fitness and conditions. Turn back early if needed rather than rushing. |
+| 12:00–12:30pm | Holyrood Palace and Scottish Parliament exteriors, viewed from public areas. No interior visit is included. |
+| 12:30–1:30pm | Lunch on the Canongate/Royal Mile. |
+| 1:30–2:00pm | Walk to the National Museum and rejoin the main Saturday itinerary. |
+
+Use this option only if the wind, visibility and footing suit a hill walk, and wear shoes with grip. Check current path closures on [Historic Environment Scotland's Holyrood Park page](https://www.historicenvironment.scot/visit/all/holyrood-park/) and follow local signs. If conditions are poor, use the original plan or its indoor alternative. Do not add the western neighbourhood loop afterwards: enjoy the museum and a relaxed dinner before the train.
 
 ## Weather and Halloween
 
