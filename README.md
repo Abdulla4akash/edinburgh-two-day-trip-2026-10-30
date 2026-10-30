@@ -8,7 +8,9 @@ Keep the accommodation address and host check-in instructions separately; they a
 
 This is a walking-focused first visit: castle and Old Town today; Dean Village, Stockbridge and the museum tomorrow. Allow roughly **8–11km walking each day**, depending on detours and transport. Distances, walking times and spending allowances below are planning estimates. Use a bus or taxi to shorten the longer transfers.
 
-This is **Codex's recommended itinerary**, updated after comparing [Claude's alternative](CLAUDE-PLAN.md). Read the [comparison and tradeoffs](COMPARISON.md). For a hiking-focused Saturday, use the Arthur's Seat alternative below.
+**Chosen plan:** follow the Friday and Saturday tables below, including **Dean Village and Stockbridge on Saturday morning**, then the museum and an early dinner. Arthur's Seat is an optional substitute, not part of the chosen route.
+
+This is **Codex's recommended itinerary**, updated after comparing [Claude's alternative](CLAUDE-PLAN.md). Read the [comparison and tradeoffs](COMPARISON.md).
 
 ## Friday 30 October
 
